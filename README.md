@@ -24,8 +24,8 @@ control.py        # Main script
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/control-py.git
-cd control-py
+git clone https://github.com/magicianKaif/control.git
+cd control
 ```
 
 ### 2. Install requirements
@@ -36,6 +36,8 @@ pip install -r requirements.txt
 ---
 
 ## ▶️ Usage
+
+## Replace Your Telegram Bot Token & Account Chat id in Control.py
 
 ### Start the script
 ```bash
@@ -66,6 +68,9 @@ The executable will be created in the `dist/` folder.
 You can now run `control.exe` directly without needing Python installed.
 
 ---
+## CONTACT 
+Instagram:[https://Instagram.com/magicianslime/]
+Telegram:[https://t.me/magician_slime]
 
 ## ⚠️ Disclaimer
 This project is **for educational purposes only**.  
