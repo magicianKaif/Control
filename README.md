@@ -1,4 +1,4 @@
-# Control.py – Telegram Controlled Client (Educational Demo)
+# Control.py – Telegram Controlled RAT
 
 This project is a **safe, educational demonstration** of how a Python script can communicate with a Telegram bot.  
 It is intended **only for learning purposes in a controlled environment**.  
@@ -69,8 +69,8 @@ You can now run `control.exe` directly without needing Python installed.
 
 ---
 ## CONTACT 
-Instagram:[https://Instagram.com/magicianslime/]
-Telegram:[https://t.me/magician_slime]
+[Instagram](https://Instagram.com/magicianslime/) 
+[Telegram](https://t.me/magician_slime) 
 
 ## ⚠️ Disclaimer
 This project is **for educational purposes only**.  
